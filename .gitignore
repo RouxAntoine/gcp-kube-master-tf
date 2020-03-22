@@ -1,0 +1,17 @@
+
+# gcp credential ignored
+account.json
+
+# intellij meta file
+.idea
+*.iml
+
+# terraform exclusion
+*.tfstate*
+
+# terraform override file
+override.tf
+*_override.tf
+
+# plugin folder
+**/.terraform/*
